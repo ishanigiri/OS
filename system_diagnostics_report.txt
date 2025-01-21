@@ -1,0 +1,15 @@
+
+    System Diagnostics Report
+    --------------------------
+    Current Working Directory:
+    C:\Users\Dell\OneDrive\Desktop\Rain Academy\jan20os
+
+    Disk Usage:
+    Filesystem      Size  Used Avail Use% Mounted on
+C:              476G  167G  309G  36% /c
+
+
+    System Information:
+    MINGW64_NT-10.0-26100 DESKTOP-9EARVKH 3.5.4-395fda67.x86_64 2024-11-25 09:49 UTC x86_64 Msys
+
+    

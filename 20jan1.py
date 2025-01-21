@@ -14,3 +14,4 @@ print(result.stdout)
 result = subprocess.run(["fake_command"], capture_output=True, text= True)
 if result.returncode !=0:
     print("Error:", result.stderr);
+    
